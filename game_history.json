@@ -1,0 +1,2628 @@
+[
+  {
+    "gameNum": "#2510094",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      4,
+      2,
+      4
+    ],
+    "key": "VMRcl1y>t@<[S>0I0X$I5InTvR0VPrN!4_G2V",
+    "keyR": "4-2-4",
+    "keyS": "|",
+    "md5": "3e3015ceee60ecae241ad3483c7a80cb",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 11,
+    "timeMilli": 1776317562187
+  },
+  {
+    "gameNum": "#2510093",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      5,
+      1,
+      1
+    ],
+    "key": "4Cs}TS[_e@MjPc1jTy<YYe2,q+R@WAs;,M@p*",
+    "keyR": "5-1-1",
+    "keyS": "|",
+    "md5": "e111b25fd77e12ff90d0853f1054c2fd",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 10,
+    "timeMilli": 1776317503733
+  },
+  {
+    "gameNum": "#2510092",
+    "score": 4,
+    "resultType": 4,
+    "facesList": [
+      1,
+      1,
+      2
+    ],
+    "key": "B7(-%!oRoj<&!#_8bBy_B}H_kwwn{wk_U}cmh",
+    "keyR": "1-1-2",
+    "keyS": "|",
+    "md5": "421196b3827a2a0f8ae2526f892edc7a",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 9,
+    "timeMilli": 1776317445287
+  },
+  {
+    "gameNum": "#2510091",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      5,
+      6,
+      2
+    ],
+    "key": "))lqDu]@6%x^%+et65fF10PWyWhXnSub4O#}A",
+    "keyR": "5-6-2",
+    "keyS": "|",
+    "md5": "24105d579c46cf09ddbd529d47fa399e",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 8,
+    "timeMilli": 1776317386841
+  },
+  {
+    "gameNum": "#2510090",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      1,
+      5,
+      1
+    ],
+    "key": "wX#d{$q%QnfCA-^~Rk@xkG(ZGIR_dy)XBW}^9",
+    "keyR": "1-5-1",
+    "keyS": "|",
+    "md5": "b4e8014203cc6d8a20b28e4a185fe28e",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 7,
+    "timeMilli": 1776317328388
+  },
+  {
+    "gameNum": "#2510089",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      4,
+      3,
+      1
+    ],
+    "key": "<5NCO0U<4;R^f^k}<iPB9RB$hWkvei};0i*^R",
+    "keyR": "4-3-1",
+    "keyS": "|",
+    "md5": "dbfb7cfa2c0d808eddda7534be6e6085",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 6,
+    "timeMilli": 1776317269952
+  },
+  {
+    "gameNum": "#2510088",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      1,
+      5,
+      6
+    ],
+    "key": "B%5g}v>[FdLRn,=0qxhK,XN)qaap{{)CjM6lb",
+    "keyR": "1-5-6",
+    "keyS": "|",
+    "md5": "e0e0212108c55f9d64821ed528ddc4c4",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 5,
+    "timeMilli": 1776317211492
+  },
+  {
+    "gameNum": "#2510087",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      6,
+      5,
+      1
+    ],
+    "key": "<6d(aje+n8+qMcr6KRmT;C%3%#Pr%QwZY*kXC",
+    "keyR": "6-5-1",
+    "keyS": "|",
+    "md5": "71c7a3f3aa1f64ce6ba09553c25bbc18",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 4,
+    "timeMilli": 1776317153048
+  },
+  {
+    "gameNum": "#2510086",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      4,
+      4,
+      5
+    ],
+    "key": "q+nH}h#[jp>xyhMko0+R-D*Gd@VT=}mpVu$D5",
+    "keyR": "4-4-5",
+    "keyS": "|",
+    "md5": "5d48eecfe756b062af296f618e89158f",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 3,
+    "timeMilli": 1776317094583
+  },
+  {
+    "gameNum": "#2510085",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      3,
+      3,
+      6
+    ],
+    "key": "CwGH<q1Rx>)*5OhxEAZ{MqQVNt[&N1[(AZogP",
+    "keyR": "3-3-6",
+    "keyS": "|",
+    "md5": "044bed319ac6e8bb69de2d96cb868c38",
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 2,
+    "timeMilli": 1776317036144
+  },
+  {
+    "gameNum": "#2510084",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      5,
+      3,
+      4
+    ],
+    "key": "R$RCW~fXv=4>2i5#v;EFhu4eIL-nhV9XOEfAi",
+    "keyR": "5-3-4",
+    "keyS": "|",
+    "md5": "9393690ded05250b8f61eca3abad69ec",
+    "currBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "prevBonusResults": [
+      {
+        "gate": 27,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 1,
+    "timeMilli": 1776316965691
+  },
+  {
+    "gameNum": "#2510083",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      6,
+      5,
+      3
+    ],
+    "key": "(d}NelYll$~C[4!s2Nvng48MTmdtDWT%Tdxg&",
+    "keyR": "6-5-3",
+    "keyS": "|",
+    "md5": "70ff97927645d004b97a4239c1ad9eb9",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 13,
+    "timeMilli": 1776316907247
+  },
+  {
+    "gameNum": "#2510082",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      6,
+      1,
+      3
+    ],
+    "key": "ego*>VW80we3<mCEW;G];U$8ymKB-Agnw!$v)",
+    "keyR": "6-1-3",
+    "keyS": "|",
+    "md5": "13155caf15176f9157a0d3b795f0365c",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 12,
+    "timeMilli": 1776316848797
+  },
+  {
+    "gameNum": "#2510081",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      1,
+      4,
+      5
+    ],
+    "key": "blm#rC7Gy@-~>M>qRc^4Qad#DQ}ZUaiGcpgen",
+    "keyR": "1-4-5",
+    "keyS": "|",
+    "md5": "9435c6d0cb124b74ac4d68f6a19234ce",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 11,
+    "timeMilli": 1776316790350
+  },
+  {
+    "gameNum": "#2510080",
+    "score": 6,
+    "resultType": 4,
+    "facesList": [
+      1,
+      1,
+      4
+    ],
+    "key": "m[yQr!^a8w(OT2vV;Zfffh4Li$TXoTqi+s&-O",
+    "keyR": "1-1-4",
+    "keyS": "|",
+    "md5": "357959ce533ed286b124613f702723fc",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 10,
+    "timeMilli": 1776316731898
+  },
+  {
+    "gameNum": "#2510079",
+    "score": 5,
+    "resultType": 4,
+    "facesList": [
+      2,
+      1,
+      2
+    ],
+    "key": "pQ>ruxSj#5HTo0fxlHvIU-}~gpb)8C=ZxbMru",
+    "keyR": "2-1-2",
+    "keyS": "|",
+    "md5": "68e080faca9ee940614f00a3f7df6740",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 9,
+    "timeMilli": 1776316673442
+  },
+  {
+    "gameNum": "#2510078",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      5,
+      4,
+      5
+    ],
+    "key": "xt<LZa]dy}7q7Ql1C4UFP^0LsNv65N%f*cU[-",
+    "keyR": "5-4-5",
+    "keyS": "|",
+    "md5": "c4dfbef5b8bc490da6855b35370297fe",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 8,
+    "timeMilli": 1776316614985
+  },
+  {
+    "gameNum": "#2510077",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      3,
+      5,
+      5
+    ],
+    "key": "h;]omspM,yvffRbGb#e$y%2^5~fs{tY;@*Zip",
+    "keyR": "3-5-5",
+    "keyS": "|",
+    "md5": "f738f62f7b7875eb3feb4b5ec9e9b022",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 7,
+    "timeMilli": 1776316556541
+  },
+  {
+    "gameNum": "#2509977",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      2,
+      5,
+      1
+    ],
+    "key": "URF*bUwi@TOE_$WNh<mPEbqO9f(z3uJHK8n@T",
+    "keyR": "2-5-1",
+    "keyS": "|",
+    "md5": "4030830fbc47e57491558eb3bb9764da",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 56,
+    "timeMilli": 1776310663479
+  },
+  {
+    "gameNum": "#2509978",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      5,
+      2,
+      5
+    ],
+    "key": "Mk3bXVCqT(tGobiX9v;bS}4Hh^T=_l5fk{r^U",
+    "keyR": "5-2-5",
+    "keyS": "|",
+    "md5": "9d60e0e3be98cb3cbd71d4fb7a4c290a",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 57,
+    "timeMilli": 1776310721935
+  },
+  {
+    "gameNum": "#2509979",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      1,
+      2,
+      4
+    ],
+    "key": "@z@I7go(;4h6[)q}2L0;%%rtpo-RtYHa5RX)H",
+    "keyR": "1-2-4",
+    "keyS": "|",
+    "md5": "087fa66f874ce0b47340a95902bed099",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 58,
+    "timeMilli": 1776310780395
+  },
+  {
+    "gameNum": "#2509980",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      5,
+      4,
+      5
+    ],
+    "key": "*,4HTk)>&mOLvET!36WgPgxR%-&j%j9<G5S{M",
+    "keyR": "5-4-5",
+    "keyS": "|",
+    "md5": "039b3b02022f241dff5202830eb1d323",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 59,
+    "timeMilli": 1776310838840
+  },
+  {
+    "gameNum": "#2509981",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      1,
+      3,
+      5
+    ],
+    "key": "r$&mMuV=l_6StsTeA{0D^kR7El,G,K%o{BTfF",
+    "keyR": "1-3-5",
+    "keyS": "|",
+    "md5": "39734e9d67f6dc12427e52f64ceb22b3",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 60,
+    "timeMilli": 1776310897284
+  },
+  {
+    "gameNum": "#2509982",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      2,
+      3,
+      2
+    ],
+    "key": "~oFdqxolxVoeqAV@>#F-XAXNW4]UE5AKoI,^r",
+    "keyR": "2-3-2",
+    "keyS": "|",
+    "md5": "e061ba726c6ab44a01a20d8230868ee9",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 61,
+    "timeMilli": 1776310955731
+  },
+  {
+    "gameNum": "#2509983",
+    "score": 5,
+    "resultType": 4,
+    "facesList": [
+      1,
+      3,
+      1
+    ],
+    "key": "^Ua3*q-EV>^xlH0c}H&[h(-F8M}S6M!S!A-n]",
+    "keyR": "1-3-1",
+    "keyS": "|",
+    "md5": "1d8c4690272dc972cedf881ff633856d",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 62,
+    "timeMilli": 1776311014187
+  },
+  {
+    "gameNum": "#2509984",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      3,
+      3,
+      2
+    ],
+    "key": "(>nxE>XNEhK<mVn*Vn1<,FC6J4^$wxDLfRJY}",
+    "keyR": "3-3-2",
+    "keyS": "|",
+    "md5": "d5b27b5179237693d03e49e4e9f546e1",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 63,
+    "timeMilli": 1776311072633
+  },
+  {
+    "gameNum": "#2509985",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      1,
+      6,
+      2
+    ],
+    "key": "$J&RFGog*mO1Vg^BvmGL=e49B@cF=u*j&-Ula",
+    "keyR": "1-6-2",
+    "keyS": "|",
+    "md5": "fa04523da279e6ee39bbb8c7ae11abf1",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 64,
+    "timeMilli": 1776311131076
+  },
+  {
+    "gameNum": "#2509986",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      2,
+      2,
+      4
+    ],
+    "key": "T-a1I6>x@S#@R$6SDAJY;mE[[]#+TH@r(qDyi",
+    "keyR": "2-2-4",
+    "keyS": "|",
+    "md5": "78a2eae556476694a3a167cf7d0a6d45",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 65,
+    "timeMilli": 1776311189531
+  },
+  {
+    "gameNum": "#2509987",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      4,
+      6,
+      4
+    ],
+    "key": "^mJHYr(d3<qbN$B6[4tMSAVQ+]TzV72)LRR+(",
+    "keyR": "4-6-4",
+    "keyS": "|",
+    "md5": "ab35e85ab7c9612c7bab9752c6a6d5dc",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 66,
+    "timeMilli": 1776311247985
+  },
+  {
+    "gameNum": "#2509988",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      3,
+      6,
+      4
+    ],
+    "key": "l7ulpst><<nwG;awwShc;!ni#gu2*t&^GEvJp",
+    "keyR": "3-6-4",
+    "keyS": "|",
+    "md5": "6510c9539931face7da87389c53e4b34",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 67,
+    "timeMilli": 1776311306429
+  },
+  {
+    "gameNum": "#2509989",
+    "score": 4,
+    "resultType": 4,
+    "facesList": [
+      2,
+      1,
+      1
+    ],
+    "key": "l#[1QLQmznIDt@{r6zb0{1IQhU~FZ_dnd8@h7",
+    "keyR": "2-1-1",
+    "keyS": "|",
+    "md5": "083144d7833a563c1d44fad9c1679ac6",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 68,
+    "timeMilli": 1776311364875
+  },
+  {
+    "gameNum": "#2509990",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      6,
+      1,
+      1
+    ],
+    "key": "6$Kvg_Oum<Wr]vHE5]]n)dUIWgH>S$;f*p<,}",
+    "keyR": "6-1-1",
+    "keyS": "|",
+    "md5": "a841c8492305e7a75ab407108e364ee1",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 69,
+    "timeMilli": 1776311423330
+  },
+  {
+    "gameNum": "#2509991",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      1,
+      4,
+      5
+    ],
+    "key": "&K3};-_4am~RgUa>vXiq*dVr0*JeLC^8Rnt39",
+    "keyR": "1-4-5",
+    "keyS": "|",
+    "md5": "fb17d06123960fc329e5e3051ccebc1e",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 70,
+    "timeMilli": 1776311481783
+  },
+  {
+    "gameNum": "#2509992",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      2,
+      5,
+      5
+    ],
+    "key": "sms>%4_WDf=E;x9y7=Pt>9IblM-8diV>;mhkU",
+    "keyR": "2-5-5",
+    "keyS": "|",
+    "md5": "785ced2ec4fdfa4457f438688ec0d848",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 71,
+    "timeMilli": 1776311540235
+  },
+  {
+    "gameNum": "#2509993",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      5,
+      5,
+      2
+    ],
+    "key": "Z[Q!fu%o;VD0jPzzpAs%)4M@8_&P4j=(S)1ip",
+    "keyR": "5-5-2",
+    "keyS": "|",
+    "md5": "1c1a5fd66d8324a4124e9e44f28cba6b",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 72,
+    "timeMilli": 1776311598694
+  },
+  {
+    "gameNum": "#2509994",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      1,
+      1,
+      6
+    ],
+    "key": "8HqOX(>@Rw;Qy2v&qeK,RB]Zl3@=eJ7<R0zA]",
+    "keyR": "1-1-6",
+    "keyS": "|",
+    "md5": "92f8c053d915563223115f2f752bd1ee",
+    "prevBonusResults": [
+      {
+        "gate": 34,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 73,
+    "timeMilli": 1776311657130
+  },
+  {
+    "gameNum": "#2509995",
+    "score": 6,
+    "resultType": 4,
+    "facesList": [
+      3,
+      1,
+      2
+    ],
+    "key": "GU8<;>*btRttz}&dIV9&fe<&edjA{X-SgqJj#",
+    "keyR": "3-1-2",
+    "keyS": "|",
+    "md5": "4c744659fa958b6e1e3223e605049ecc",
+    "currBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 1,
+    "timeMilli": 1776311715586
+  },
+  {
+    "gameNum": "#2509996",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      3,
+      5,
+      1
+    ],
+    "key": "A}*<%8C#mWcYa0$3^&x#R70,Jp[[XaEF~UULn",
+    "keyR": "3-5-1",
+    "keyS": "|",
+    "md5": "c226ac64e2477a66d6935f5455e409da",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 2,
+    "timeMilli": 1776311786026
+  },
+  {
+    "gameNum": "#2509997",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      4,
+      4,
+      5
+    ],
+    "key": "Lqu8xSC94wtq+-;>![bzGe+j$Rr~AMhBdBJ!o",
+    "keyR": "4-4-5",
+    "keyS": "|",
+    "md5": "8d3d5be503e733bd7d1d6be1a013a1da",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 3,
+    "timeMilli": 1776311844483
+  },
+  {
+    "gameNum": "#2509998",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      5,
+      1,
+      1
+    ],
+    "key": "uImORu~]c^$<@q$Eil*@Dx[A>3X=MWez15JRb",
+    "keyR": "5-1-1",
+    "keyS": "|",
+    "md5": "9423a81a834b6388f48c425abea95301",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 4,
+    "timeMilli": 1776311902937
+  },
+  {
+    "gameNum": "#2509999",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      1,
+      5,
+      6
+    ],
+    "key": ",*b=P*zX6<]nHj&WsXnlY~!]Yh<1!jAU,QZ}n",
+    "keyR": "1-5-6",
+    "keyS": "|",
+    "md5": "a86b02f87737e080909599b1ca56df5a",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 5,
+    "timeMilli": 1776311961383
+  },
+  {
+    "gameNum": "#2510000",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      3,
+      4,
+      1
+    ],
+    "key": "gsKrx%GZ4LUy$DP=F%h47~~wPV{T67{Op=nN7",
+    "keyR": "3-4-1",
+    "keyS": "|",
+    "md5": "6cb0692e31f33de36a94ce3e1b910a81",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 6,
+    "timeMilli": 1776312019836
+  },
+  {
+    "gameNum": "#2510001",
+    "score": 15,
+    "resultType": 11,
+    "facesList": [
+      5,
+      5,
+      5
+    ],
+    "key": "dJ!DqVbSzqx~k(J>+#!z^fRV+wD+nFp&)R92@",
+    "keyR": "5-5-5",
+    "keyS": "|",
+    "md5": "15eeb253a935982df80d58de3844e8a7",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 7,
+    "timeMilli": 1776312078284
+  },
+  {
+    "gameNum": "#2510002",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      1,
+      4,
+      2
+    ],
+    "key": "fL3c1y#o3qhaFQV;jXl(!;qHFI_==+3,+@G[b",
+    "keyR": "1-4-2",
+    "keyS": "|",
+    "md5": "ae17a9e1ff45b9b1a5aacab947b055ee",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 8,
+    "timeMilli": 1776312136734
+  },
+  {
+    "gameNum": "#2510003",
+    "score": 11,
+    "resultType": 3,
+    "facesList": [
+      6,
+      2,
+      3
+    ],
+    "key": "3!RmRw=vg6cnNl>)IQ+LJ*<*Sv0I{f!(p)uhX",
+    "keyR": "6-2-3",
+    "keyS": "|",
+    "md5": "d6b93d5e933dff9eaf46689132b4e24f",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 9,
+    "timeMilli": 1776312195194
+  },
+  {
+    "gameNum": "#2510004",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      3,
+      6,
+      5
+    ],
+    "key": "FlPBHWNs(R$b9K9C7ml;I)a3Gzxqfv+&{5L;2",
+    "keyR": "3-6-5",
+    "keyS": "|",
+    "md5": "e5747917f9fefb1d1c3f090178bd1f47",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 10,
+    "timeMilli": 1776312253633
+  },
+  {
+    "gameNum": "#2510005",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      6,
+      5,
+      1
+    ],
+    "key": ">Vms_smgixw=^}h(-Re)d+Pst*A*Lgj_V}U&<",
+    "keyR": "6-5-1",
+    "keyS": "|",
+    "md5": "dd9c4926ca1fcce214a5598ec3ac6e42",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 11,
+    "timeMilli": 1776312312109
+  },
+  {
+    "gameNum": "#2510006",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      5,
+      3,
+      6
+    ],
+    "key": "F[BO~A80BAFFfeR{(gdhPSCo]ayl>)61R^U{G",
+    "keyR": "5-3-6",
+    "keyS": "|",
+    "md5": "ed9535298f4c7cda30d81b2ef42dd457",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 12,
+    "timeMilli": 1776312370587
+  },
+  {
+    "gameNum": "#2510007",
+    "score": 5,
+    "resultType": 4,
+    "facesList": [
+      2,
+      1,
+      2
+    ],
+    "key": "uZucCgn^xY@zMn]UF@Xs%HkB*aTjFH}PSc)Bv",
+    "keyR": "2-1-2",
+    "keyS": "|",
+    "md5": "984d3546a44289adb4984b3adf961d6b",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 13,
+    "timeMilli": 1776312429027
+  },
+  {
+    "gameNum": "#2510008",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      1,
+      1,
+      6
+    ],
+    "key": "kt7O439H-%PRpl(snBk<*K5@QB{C0EhN4B~TH",
+    "keyR": "1-1-6",
+    "keyS": "|",
+    "md5": "726b9c5849f853f3b2c6c89ed93d0d0a",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 14,
+    "timeMilli": 1776312487479
+  },
+  {
+    "gameNum": "#2510009",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      3,
+      6,
+      1
+    ],
+    "key": "eYleKReE)zxxq9jHUvEKrzlC>Gy^]n}TZR4g;",
+    "keyR": "3-6-1",
+    "keyS": "|",
+    "md5": "362f7781b9fdbbc54bacd290d4f2bb6b",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 15,
+    "timeMilli": 1776312545946
+  },
+  {
+    "gameNum": "#2510010",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      5,
+      5,
+      3
+    ],
+    "key": "PF3FZ@wf,>{2aqxReKkN6l-W0H+q+tOrw5amz",
+    "keyR": "5-5-3",
+    "keyS": "|",
+    "md5": "2fe8be4375ca6bed3ffccc150fff3866",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 16,
+    "timeMilli": 1776312604393
+  },
+  {
+    "gameNum": "#2510011",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      2,
+      3,
+      2
+    ],
+    "key": "ww1{]t&g*Od;B[(3v1lU(ab<S9W2wk-T9o%3j",
+    "keyR": "2-3-2",
+    "keyS": "|",
+    "md5": "6f95efb3c849fdbc5e30acc1ac4ea790",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 17,
+    "timeMilli": 1776312662835
+  },
+  {
+    "gameNum": "#2510012",
+    "score": 11,
+    "resultType": 3,
+    "facesList": [
+      3,
+      6,
+      2
+    ],
+    "key": "ef_{(1rt)Vwq%~}gTD@QB(bRwkMafYSd~w_B^",
+    "keyR": "3-6-2",
+    "keyS": "|",
+    "md5": "8d61d432b434294e78f2f358f4ce7feb",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 18,
+    "timeMilli": 1776312721287
+  },
+  {
+    "gameNum": "#2510013",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      3,
+      5,
+      6
+    ],
+    "key": "h$-Z#{)j5izao*AGD==RwKXc^wPtk~G0H+Z~b",
+    "keyR": "3-5-6",
+    "keyS": "|",
+    "md5": "5af33879260195909f7511b21cb1d83a",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 19,
+    "timeMilli": 1776312779738
+  },
+  {
+    "gameNum": "#2510014",
+    "score": 6,
+    "resultType": 4,
+    "facesList": [
+      1,
+      2,
+      3
+    ],
+    "key": "XSRInv8SvARgRy8)rX_)WRUD_wQSYfZ-iBjNn",
+    "keyR": "1-2-3",
+    "keyS": "|",
+    "md5": "4de4ea58e5b1235e108191073107cdef",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 20,
+    "timeMilli": 1776312838198
+  },
+  {
+    "gameNum": "#2510015",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      3,
+      4,
+      3
+    ],
+    "key": "FSkD,D{Rw}Bl-;vS7l5DIXl+fK-EwxZ*[kF^A",
+    "keyR": "3-4-3",
+    "keyS": "|",
+    "md5": "ff413c44bdeede24c48d0d39a9c3d84a",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 21,
+    "timeMilli": 1776312896642
+  },
+  {
+    "gameNum": "#2510016",
+    "score": 9,
+    "resultType": 11,
+    "facesList": [
+      3,
+      3,
+      3
+    ],
+    "key": "@}mOTmFFeLUav5!+jGI>oCsHgOJZ67;tw<kUA",
+    "keyR": "3-3-3",
+    "keyS": "|",
+    "md5": "7e3e245e785c0dc46e07fa7a059fc3b1",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 22,
+    "timeMilli": 1776312955095
+  },
+  {
+    "gameNum": "#2510017",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      4,
+      5,
+      1
+    ],
+    "key": "mN)qYsQaQ;VE9]xZYzR26+q]@&^>O%s;a9!R[",
+    "keyR": "4-5-1",
+    "keyS": "|",
+    "md5": "ed412b1845ca24774301f15db62f27f9",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 23,
+    "timeMilli": 1776313013536
+  },
+  {
+    "gameNum": "#2510018",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      5,
+      3,
+      2
+    ],
+    "key": "-JQ4tR<q++vLNCQ7s-0%E~<i,Eoaf12gOsy79",
+    "keyR": "5-3-2",
+    "keyS": "|",
+    "md5": "eea3a82f32794ae00f786e752550e977",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 24,
+    "timeMilli": 1776313071976
+  },
+  {
+    "gameNum": "#2510019",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      5,
+      4,
+      3
+    ],
+    "key": "aw3A1Tk*L^KQ~Ejcv684R^fUeyLIGzSu@772R",
+    "keyR": "5-4-3",
+    "keyS": "|",
+    "md5": "46d5b938ba28d4f7084efcb003d1e748",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 25,
+    "timeMilli": 1776313130442
+  },
+  {
+    "gameNum": "#2510020",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      3,
+      4,
+      2
+    ],
+    "key": "VrW0EW=wiRg[F{![gG+AetU!]+PnB@Pt{k-+r",
+    "keyR": "3-4-2",
+    "keyS": "|",
+    "md5": "33d1217095412a84d57c66acf878c32e",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 26,
+    "timeMilli": 1776313188884
+  },
+  {
+    "gameNum": "#2510021",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      5,
+      4,
+      4
+    ],
+    "key": "BK7]W]l=Y+Mf#+u,N@DPX1&y,}yMSTm8Ry%r>",
+    "keyR": "5-4-4",
+    "keyS": "|",
+    "md5": "b96a63ee889781b9652cc53c4960749e",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 27,
+    "timeMilli": 1776313247338
+  },
+  {
+    "gameNum": "#2510022",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      6,
+      6,
+      2
+    ],
+    "key": "+94xHs-(XZ>uq[AcAu(Vo4uYq~PRoN[UU+S0f",
+    "keyR": "6-6-2",
+    "keyS": "|",
+    "md5": "48e822776f9a58ffa5fd0845885562e0",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 28,
+    "timeMilli": 1776313305790
+  },
+  {
+    "gameNum": "#2510023",
+    "score": 11,
+    "resultType": 3,
+    "facesList": [
+      3,
+      5,
+      3
+    ],
+    "key": "~f0echa63,fFk>r#iwzO%6rmG+4M7Z^u-bj{b",
+    "keyR": "3-5-3",
+    "keyS": "|",
+    "md5": "7ba1c2034db435f0be6687c1f79e2c20",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 29,
+    "timeMilli": 1776313364236
+  },
+  {
+    "gameNum": "#2510024",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      2,
+      3,
+      2
+    ],
+    "key": "^PybKbyx8whgKi1}uBgx{~EBaHZmGt$n_y~^;",
+    "keyR": "2-3-2",
+    "keyS": "|",
+    "md5": "1f6c54e7a6a9fb889ecec92c87ba01a4",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 30,
+    "timeMilli": 1776313422693
+  },
+  {
+    "gameNum": "#2510025",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      5,
+      5,
+      4
+    ],
+    "key": "~82eNOSiec%1IlMjlndu!gjW17a61B@L5pul&",
+    "keyR": "5-5-4",
+    "keyS": "|",
+    "md5": "6aae2d11a7d528b237c5885bc7575123",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 31,
+    "timeMilli": 1776313481137
+  },
+  {
+    "gameNum": "#2510026",
+    "score": 16,
+    "resultType": 3,
+    "facesList": [
+      4,
+      6,
+      6
+    ],
+    "key": "c6L(;y8fWmp),11U5&>%z$-!Y6V3I0YBRBCh1",
+    "keyR": "4-6-6",
+    "keyS": "|",
+    "md5": "d799308a381ee69f14e3ed3f587a898f",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 32,
+    "timeMilli": 1776313539578
+  },
+  {
+    "gameNum": "#2510027",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      4,
+      5,
+      3
+    ],
+    "key": "xh*)!sqsPsSR+I}2!i=jEnR5_@~&Nxfdt+p=+",
+    "keyR": "4-5-3",
+    "keyS": "|",
+    "md5": "39aa62efa4477c6b469ce04cc93bbe94",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 33,
+    "timeMilli": 1776313598038
+  },
+  {
+    "gameNum": "#2510028",
+    "score": 11,
+    "resultType": 3,
+    "facesList": [
+      1,
+      5,
+      5
+    ],
+    "key": "+<*J#Cz0Q>d8&l@%m9<Hl+rQ{F8LwG>^~>(O0",
+    "keyR": "1-5-5",
+    "keyS": "|",
+    "md5": "8166c3d6c7b93cd975cce85d0b18c705",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 34,
+    "timeMilli": 1776313656492
+  },
+  {
+    "gameNum": "#2510029",
+    "score": 15,
+    "resultType": 11,
+    "facesList": [
+      5,
+      5,
+      5
+    ],
+    "key": "GK3tt=ax!4i62Zz~hO&Rp0}~fG1rHe-Rqao1}",
+    "keyR": "5-5-5",
+    "keyS": "|",
+    "md5": "a799ca3a6a42ab1306ef3bdc722693c1",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 35,
+    "timeMilli": 1776313714942
+  },
+  {
+    "gameNum": "#2510030",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      2,
+      5,
+      1
+    ],
+    "key": ";()m}rr,ZRxYq7FpCG#M~Pfy,(vVCRm%2H[o>",
+    "keyR": "2-5-1",
+    "keyS": "|",
+    "md5": "eaf2fb5d47964bd560bfc58b74ff1dfd",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 36,
+    "timeMilli": 1776313773384
+  },
+  {
+    "gameNum": "#2510031",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      3,
+      3,
+      2
+    ],
+    "key": "aZz16S]oiN+)-*Dtuy)TGBbBE-~W#Q]@=YJ_T",
+    "keyR": "3-3-2",
+    "keyS": "|",
+    "md5": "b8ae3311d6c8ec9381db190b81785dfb",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 37,
+    "timeMilli": 1776313831837
+  },
+  {
+    "gameNum": "#2510032",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      3,
+      6,
+      3
+    ],
+    "key": "pR[YTtbABx_%I36>~#X76NIKBDh+W*,OsD-(z",
+    "keyR": "3-6-3",
+    "keyS": "|",
+    "md5": "189ad96f90629bfce0e2a7b8957910bd",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 38,
+    "timeMilli": 1776313890284
+  },
+  {
+    "gameNum": "#2510033",
+    "score": 3,
+    "resultType": 11,
+    "facesList": [
+      1,
+      1,
+      1
+    ],
+    "key": "A5k%D!8AXC~It!a6rS(t(RFdSg-(pM7NVd%ei",
+    "keyR": "1-1-1",
+    "keyS": "|",
+    "md5": "6808c57e786a12134e5ce51af921dd66",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 39,
+    "timeMilli": 1776313948742
+  },
+  {
+    "gameNum": "#2510034",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      5,
+      6,
+      2
+    ],
+    "key": "n{-y4+*-<ozrV-KdU6pt2tp5jBy2)VuAO7~vI",
+    "keyR": "5-6-2",
+    "keyS": "|",
+    "md5": "7302aefcee11f08ae6275d9e9cb65e0c",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 40,
+    "timeMilli": 1776314007187
+  },
+  {
+    "gameNum": "#2510035",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      5,
+      6,
+      2
+    ],
+    "key": "wO9kO;MGcuT0d_tvVMKZt6gdGCyfsmBL(HaQn",
+    "keyR": "5-6-2",
+    "keyS": "|",
+    "md5": "30f93e01e9d745b2afe3f9bf80bb5865",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 41,
+    "timeMilli": 1776314065634
+  },
+  {
+    "gameNum": "#2510036",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      2,
+      5,
+      5
+    ],
+    "key": "vWb!Q>bzD;{4tw=$_MF%#(*t>K,#}U(JRXjg=",
+    "keyR": "2-5-5",
+    "keyS": "|",
+    "md5": "2cf4c0b4cc906dbfc283ef41a3232d60",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 42,
+    "timeMilli": 1776314124084
+  },
+  {
+    "gameNum": "#2510037",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      5,
+      2,
+      2
+    ],
+    "key": "M=iuh}&w+ngk<nG70k&*e<_pagHm+^E;-BA2J",
+    "keyR": "5-2-2",
+    "keyS": "|",
+    "md5": "65b4d55f61bac826def43bb9faa2e31a",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 43,
+    "timeMilli": 1776314182537
+  },
+  {
+    "gameNum": "#2510038",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      5,
+      1,
+      4
+    ],
+    "key": "jM8plaFs]xjZFbiWb7ynTtd5b<ivc<72q[>r$",
+    "keyR": "5-1-4",
+    "keyS": "|",
+    "md5": "18566a23c1925813db7001cc027fced0",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 44,
+    "timeMilli": 1776314240987
+  },
+  {
+    "gameNum": "#2510039",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      4,
+      5,
+      1
+    ],
+    "key": "bjlgE(mB,ORRiuC0Fi2%H(}a;P1E+e%a]M*h_",
+    "keyR": "4-5-1",
+    "keyS": "|",
+    "md5": "863abb9ac213565acafd30c2720c9a6c",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 45,
+    "timeMilli": 1776314299432
+  },
+  {
+    "gameNum": "#2510040",
+    "score": 6,
+    "resultType": 4,
+    "facesList": [
+      1,
+      3,
+      2
+    ],
+    "key": "%849eIOQSniq7SoU$8M$GZJMbrx3#Q!]pmE*7",
+    "keyR": "1-3-2",
+    "keyS": "|",
+    "md5": "3b509eaab73e62499cfae31db47d736d",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 46,
+    "timeMilli": 1776314357887
+  },
+  {
+    "gameNum": "#2510041",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      5,
+      2,
+      3
+    ],
+    "key": ")!xI3tG%boI_,aJ!onby#3GNCjDS0Z9vNZQ4)",
+    "keyR": "5-2-3",
+    "keyS": "|",
+    "md5": "4bca2fbcf850a0bee315d6ff64017489",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 47,
+    "timeMilli": 1776314416329
+  },
+  {
+    "gameNum": "#2510042",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      4,
+      2,
+      4
+    ],
+    "key": "j5GVuSyR839L&Vmb(_WmB0gp[_@^HmRk!XU#&",
+    "keyR": "4-2-4",
+    "keyS": "|",
+    "md5": "6dbb0854c0758cbb5c4d70fa7de58df6",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 48,
+    "timeMilli": 1776314474790
+  },
+  {
+    "gameNum": "#2510043",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      6,
+      2,
+      6
+    ],
+    "key": "pr*D$D4v*4>V<5;y$-RM~rGE]@~2JTj1sW{5;",
+    "keyR": "6-2-6",
+    "keyS": "|",
+    "md5": "4950184e380e696ce58fb1049ea6fd58",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 49,
+    "timeMilli": 1776314533238
+  },
+  {
+    "gameNum": "#2510044",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      4,
+      3,
+      3
+    ],
+    "key": "YP6cf,$#2[Y1TvHrUH%)]$RYB!w)E@P)4Wcyi",
+    "keyR": "4-3-3",
+    "keyS": "|",
+    "md5": "aae4fe6321c9f336518292b71356435b",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 50,
+    "timeMilli": 1776314591688
+  },
+  {
+    "gameNum": "#2510045",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      5,
+      5,
+      4
+    ],
+    "key": "vc,F;iq+DWxX2FiVKzA&!~>5l7t+sl)HKWIl<",
+    "keyR": "5-5-4",
+    "keyS": "|",
+    "md5": "e50f2ce3d8fd06cd85cec0a48aad4bdb",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 51,
+    "timeMilli": 1776314650141
+  },
+  {
+    "gameNum": "#2510046",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      4,
+      6,
+      3
+    ],
+    "key": "bpxHiQP,M992S0Kh(LX_>!D(MEox_6JIb7$L(",
+    "keyR": "4-6-3",
+    "keyS": "|",
+    "md5": "b752d97cee94401b109f3a7c86f93bca",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 52,
+    "timeMilli": 1776314708588
+  },
+  {
+    "gameNum": "#2510047",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      4,
+      1,
+      5
+    ],
+    "key": "Dnu2!sV~!B+no&J]Ony~8vK=XfyIv&pg>Z04~",
+    "keyR": "4-1-5",
+    "keyS": "|",
+    "md5": "8a82160d70aebf59f9692b49dec6970c",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 53,
+    "timeMilli": 1776314767041
+  },
+  {
+    "gameNum": "#2510048",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      5,
+      1,
+      3
+    ],
+    "key": "RK7X~!p7hGA8QkuZkToaeCSK>2Gu<xF&Z{z{X",
+    "keyR": "5-1-3",
+    "keyS": "|",
+    "md5": "df6845294093374ef1390c85fd0b7f9c",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 54,
+    "timeMilli": 1776314825487
+  },
+  {
+    "gameNum": "#2510049",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      2,
+      5,
+      3
+    ],
+    "key": "}=B,=rc,e6y(yS@GTN;[qu8*~6fe>Ul[(KH^w",
+    "keyR": "2-5-3",
+    "keyS": "|",
+    "md5": "badd45bdc8dd0440f294f09b7655497f",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 55,
+    "timeMilli": 1776314883932
+  },
+  {
+    "gameNum": "#2510050",
+    "score": 11,
+    "resultType": 3,
+    "facesList": [
+      2,
+      6,
+      3
+    ],
+    "key": "AAvT=h9e{RG93Weti_B0)nIdq%#%Of8Y48aU_",
+    "keyR": "2-6-3",
+    "keyS": "|",
+    "md5": "e4c56e12397a7955b5c2313301504bd0",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 56,
+    "timeMilli": 1776314942386
+  },
+  {
+    "gameNum": "#2510051",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      1,
+      3,
+      5
+    ],
+    "key": "[CJ>ceDFv25]vf7]z>u}vZ5TCE&~UnNwuWCx@",
+    "keyR": "1-3-5",
+    "keyS": "|",
+    "md5": "26d479db88a3e71c81fcb55606906ce1",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 57,
+    "timeMilli": 1776315000835
+  },
+  {
+    "gameNum": "#2510052",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      2,
+      3,
+      2
+    ],
+    "key": "YZMoc4~cepUR6j7D}cKmSn}_HF$IHW0z*^,iF",
+    "keyR": "2-3-2",
+    "keyS": "|",
+    "md5": "e95c3156bdb9d8866d610d472a5717f7",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 58,
+    "timeMilli": 1776315059296
+  },
+  {
+    "gameNum": "#2510053",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      6,
+      4,
+      2
+    ],
+    "key": "83QAWF,%jaIs0](}s+>R+c^$X#aTtm2RQIB1q",
+    "keyR": "6-4-2",
+    "keyS": "|",
+    "md5": "09dfcda2a50b07417b56c81c18835a35",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 59,
+    "timeMilli": 1776315117741
+  },
+  {
+    "gameNum": "#2510054",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      5,
+      2,
+      5
+    ],
+    "key": "fYTjjzvDO4~iz2;n}w6,]8j}>xx&j}#tGkgEs",
+    "keyR": "5-2-5",
+    "keyS": "|",
+    "md5": "fba6efa62700cf0aebdfcbc71b5d2502",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 60,
+    "timeMilli": 1776315176182
+  },
+  {
+    "gameNum": "#2510055",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      3,
+      5,
+      4
+    ],
+    "key": "<dO;Gk9L~8ZPlWUJ[Cz6;U$Q1C+fhtm7Q}~HP",
+    "keyR": "3-5-4",
+    "keyS": "|",
+    "md5": "89220d754bbabad939ec9cde5a3565d4",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 61,
+    "timeMilli": 1776315234635
+  },
+  {
+    "gameNum": "#2510056",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      3,
+      5,
+      5
+    ],
+    "key": "66L]FG2u8>6E7k_}s[x[8EEz,DjLbGIW08o@v",
+    "keyR": "3-5-5",
+    "keyS": "|",
+    "md5": "4549d7d209a838f250702d2b3d59e22f",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 62,
+    "timeMilli": 1776315293087
+  },
+  {
+    "gameNum": "#2510057",
+    "score": 14,
+    "resultType": 3,
+    "facesList": [
+      3,
+      6,
+      5
+    ],
+    "key": "gVwDyI5}l-p*{qZ69l3i4u$Q5mC-v%}={sUZ{",
+    "keyR": "3-6-5",
+    "keyS": "|",
+    "md5": "0ab2d23d1ffe6b2405b32567e0889aaf",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 63,
+    "timeMilli": 1776315351547
+  },
+  {
+    "gameNum": "#2510058",
+    "score": 6,
+    "resultType": 4,
+    "facesList": [
+      4,
+      1,
+      1
+    ],
+    "key": "^R!^<V<osXAu4Nn,15H>ijp-%fT^Tyz6gEk&,",
+    "keyR": "4-1-1",
+    "keyS": "|",
+    "md5": "d6274079f04b827a8d48ff063a7cc7f5",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 64,
+    "timeMilli": 1776315409986
+  },
+  {
+    "gameNum": "#2510059",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      3,
+      6,
+      4
+    ],
+    "key": "Ryo3#,Teq~x3ub6{jErTpNo$!IuJ~ScBy-2M_",
+    "keyR": "3-6-4",
+    "keyS": "|",
+    "md5": "dc4cbf5950ded4b0e39e0a6a76ff7be2",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 65,
+    "timeMilli": 1776315468436
+  },
+  {
+    "gameNum": "#2510060",
+    "score": 11,
+    "resultType": 3,
+    "facesList": [
+      6,
+      2,
+      3
+    ],
+    "key": "smr>V)P#)tcgP7}gHO<[DZQ-f1d1yi9_!,]=K",
+    "keyR": "6-2-3",
+    "keyS": "|",
+    "md5": "676ef3f53e035685b268d2cdef8b6b77",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 66,
+    "timeMilli": 1776315526898
+  },
+  {
+    "gameNum": "#2510061",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      5,
+      2,
+      2
+    ],
+    "key": "G^6ty3CBK[P&uq$9oNgZ(0_D%6lGz;5fP-U@F",
+    "keyR": "5-2-2",
+    "keyS": "|",
+    "md5": "be0e96060f0a6ab4600f275566ccde71",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 67,
+    "timeMilli": 1776315585337
+  },
+  {
+    "gameNum": "#2510062",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      2,
+      5,
+      1
+    ],
+    "key": "QdfV*pwq5g0Z&[C&PVvsL]xb8*QbWO38PBfR7",
+    "keyR": "2-5-1",
+    "keyS": "|",
+    "md5": "5fb2b51daa28d8362bd31541eaedd328",
+    "prevBonusResults": [
+      {
+        "gate": 41,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 68,
+    "timeMilli": 1776315643791
+  },
+  {
+    "gameNum": "#2510063",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      1,
+      5,
+      1
+    ],
+    "key": "3Mxnnyuh]^Sd;Z>g6fD__n$(#XOLvs8q]a@k;",
+    "keyR": "1-5-1",
+    "keyS": "|",
+    "md5": "05c4ec9548287e6de8dbc2a935c0d477",
+    "currBonusResults": [
+      {
+        "gate": 5,
+        "multiple": 88
+      }
+    ],
+    "prevBonusResults": [
+      {
+        "gate": 5,
+        "multiple": 88
+      }
+    ],
+    "lastBonusCount": 1,
+    "timeMilli": 1776315702246
+  },
+  {
+    "gameNum": "#2510064",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      1,
+      3,
+      6
+    ],
+    "key": "1@$j2i@WR]vi+h*#XWBJ-vQ,!3_B@,;@WeghG",
+    "keyR": "1-3-6",
+    "keyS": "|",
+    "md5": "29ad86196407652ef30b3bf734785965",
+    "prevBonusResults": [
+      {
+        "gate": 5,
+        "multiple": 88
+      }
+    ],
+    "lastBonusCount": 2,
+    "timeMilli": 1776315772696
+  },
+  {
+    "gameNum": "#2510065",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      2,
+      6,
+      4
+    ],
+    "key": "k1u6POTA)vaHSUm!Mh!_l+at$QMu<IiT0v8ww",
+    "keyR": "2-6-4",
+    "keyS": "|",
+    "md5": "579459afaf89bcdf0a04e342c9af918f",
+    "prevBonusResults": [
+      {
+        "gate": 5,
+        "multiple": 88
+      }
+    ],
+    "lastBonusCount": 3,
+    "timeMilli": 1776315831146
+  },
+  {
+    "gameNum": "#2510066",
+    "score": 7,
+    "resultType": 4,
+    "facesList": [
+      1,
+      3,
+      3
+    ],
+    "key": "s2{H4ZydkJX-tUr[9]#>u>#&4,=%Vvo=v%V@l",
+    "keyR": "1-3-3",
+    "keyS": "|",
+    "md5": "59ac5d7cd395a81d2035304242fd6d2f",
+    "prevBonusResults": [
+      {
+        "gate": 5,
+        "multiple": 88
+      }
+    ],
+    "lastBonusCount": 4,
+    "timeMilli": 1776315889591
+  },
+  {
+    "gameNum": "#2510067",
+    "score": 10,
+    "resultType": 4,
+    "facesList": [
+      6,
+      3,
+      1
+    ],
+    "key": "v@1q(VR#53U&-zyT>ApQ*hSh0R]-VCQ,o0%pW",
+    "keyR": "6-3-1",
+    "keyS": "|",
+    "md5": "6f1ee6a89488d55e5166cfded509f959",
+    "prevBonusResults": [
+      {
+        "gate": 5,
+        "multiple": 88
+      }
+    ],
+    "lastBonusCount": 5,
+    "timeMilli": 1776315948051
+  },
+  {
+    "gameNum": "#2510068",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      3,
+      4,
+      6
+    ],
+    "key": "a;n)W~t),()NVLz$ZK!!^Li)Po-k~JG+g9<@x",
+    "keyR": "3-4-6",
+    "keyS": "|",
+    "md5": "9807aa3e3df5458b160e60ccf7377066",
+    "prevBonusResults": [
+      {
+        "gate": 5,
+        "multiple": 88
+      }
+    ],
+    "lastBonusCount": 6,
+    "timeMilli": 1776316006492
+  },
+  {
+    "gameNum": "#2510069",
+    "score": 12,
+    "resultType": 11,
+    "facesList": [
+      4,
+      4,
+      4
+    ],
+    "key": ")IwlOA]hG+p[vJ3RlDi{BP5;RB*m@Exo0ZS>3",
+    "keyR": "4-4-4",
+    "keyS": "|",
+    "md5": "9585d9e3f4e599aec201e615f93d6237",
+    "prevBonusResults": [
+      {
+        "gate": 5,
+        "multiple": 88
+      }
+    ],
+    "lastBonusCount": 7,
+    "timeMilli": 1776316064947
+  },
+  {
+    "gameNum": "#2510070",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      2,
+      1,
+      5
+    ],
+    "key": "8*vS-%*z6QYAJb#H-fD=A$)I^QsOg<JD&-IN=",
+    "keyR": "2-1-5",
+    "keyS": "|",
+    "md5": "48898b1387a1699cacca799ad8877c5d",
+    "currBonusResults": [
+      {
+        "gate": 18,
+        "multiple": 5
+      }
+    ],
+    "prevBonusResults": [
+      {
+        "gate": 18,
+        "multiple": 5
+      }
+    ],
+    "lastBonusCount": 1,
+    "timeMilli": 1776316123381
+  },
+  {
+    "gameNum": "#2510071",
+    "score": 13,
+    "resultType": 3,
+    "facesList": [
+      6,
+      2,
+      5
+    ],
+    "key": "sll&Vc!%%K]Cux)h>)_cNRugU;!GE1qT_sM-q",
+    "keyR": "6-2-5",
+    "keyS": "|",
+    "md5": "d82216295d53f081e7ab848676dbe3db",
+    "currBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 1,
+    "timeMilli": 1776316193837
+  },
+  {
+    "gameNum": "#2510072",
+    "score": 12,
+    "resultType": 3,
+    "facesList": [
+      2,
+      5,
+      5
+    ],
+    "key": "sbrO2g~{4dWqIu[MfDIZ5aMm,R;geGEi{Bb(q",
+    "keyR": "2-5-5",
+    "keyS": "|",
+    "md5": "9f2374efba1defe6488e25f1d83542e6",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 2,
+    "timeMilli": 1776316264282
+  },
+  {
+    "gameNum": "#2510073",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      1,
+      3,
+      4
+    ],
+    "key": "Ep@cL[}{wt1<@gLSAO_MW~gkX]E65G#LLG$R{",
+    "keyR": "1-3-4",
+    "keyS": "|",
+    "md5": "8e211df9464a72aa5c20a94c85bf2ce7",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 3,
+    "timeMilli": 1776316322751
+  },
+  {
+    "gameNum": "#2510074",
+    "score": 8,
+    "resultType": 4,
+    "facesList": [
+      1,
+      4,
+      3
+    ],
+    "key": "HT4UD4wq15oA(Dm(c{VGHkdzgVF~HW7(&CRtu",
+    "keyR": "1-4-3",
+    "keyS": "|",
+    "md5": "a26e02901f92cd68d61ca13892b9c4b0",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 4,
+    "timeMilli": 1776316381184
+  },
+  {
+    "gameNum": "#2510075",
+    "score": 9,
+    "resultType": 4,
+    "facesList": [
+      4,
+      2,
+      3
+    ],
+    "key": ",dpyq~2EfQcHWpsx~^DywxSlAhX1Q;T@ux)__",
+    "keyR": "4-2-3",
+    "keyS": "|",
+    "md5": "85ba3483becfd85804220192aed09cec",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 5,
+    "timeMilli": 1776316439650
+  },
+  {
+    "gameNum": "#2510076",
+    "score": 11,
+    "resultType": 3,
+    "facesList": [
+      3,
+      6,
+      2
+    ],
+    "key": "G%h48Y_;1!JShoaJ@px=j}5_>ZL8,^1$M7y)H",
+    "keyR": "3-6-2",
+    "keyS": "|",
+    "md5": "44442831ab28f8cb109d0854112e2c2b",
+    "prevBonusResults": [
+      {
+        "gate": 32,
+        "multiple": 10
+      }
+    ],
+    "lastBonusCount": 6,
+    "timeMilli": 1776316498089
+  }
+]
