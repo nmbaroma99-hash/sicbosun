@@ -4,7 +4,7 @@ const cors = require('cors');
 const fs = require('fs');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
@@ -18,7 +18,10 @@ const HISTORY_FILE = 'game_history.json';
 let historicalData = [];
 let mlModels = { logistic: null, randomForest: null };
 
-// ============ THÊM: XỬ LÝ RATE LIMIT ============
+// 🔥 GIỚI HẠN CHỈ GIỮ 15 PHIÊN GẦN NHẤT 🔥
+const MAX_HISTORY = 15;
+
+// ============ XỬ LÝ RATE LIMIT ============
 let lastRequestTime = 0;
 const MIN_REQUEST_INTERVAL = 5000; // 5 giây giữa các request
 
@@ -105,7 +108,7 @@ function loadHistoricalData() {
         if (fs.existsSync(HISTORY_FILE)) {
             const data = fs.readFileSync(HISTORY_FILE, 'utf8');
             historicalData = JSON.parse(data);
-            console.log(`📂 Đã tải ${historicalData.length} phiên lịch sử`);
+            console.log(`📂 Đã tải ${historicalData.length} phiên lịch sử (tối đa ${MAX_HISTORY})`);
         }
     } catch (error) {
         historicalData = [];
@@ -115,6 +118,7 @@ function loadHistoricalData() {
 function saveHistoricalData() {
     try {
         fs.writeFileSync(HISTORY_FILE, JSON.stringify(historicalData, null, 2));
+        console.log(`💾 Đã lưu ${historicalData.length} phiên vào lịch sử`);
     } catch (error) {}
 }
 
@@ -149,13 +153,15 @@ async function updateHistoricalData(retryCount = 0) {
             }
         }
         
-        if (historicalData.length > 2000) {
-            historicalData = historicalData.slice(0, 2000);
+        // 🔥 CHỈ GIỮ 15 PHIÊN GẦN NHẤT 🔥
+        if (historicalData.length > MAX_HISTORY) {
+            historicalData = historicalData.slice(0, MAX_HISTORY);
+            console.log(`✂️ Đã cắt lịch sử, chỉ giữ ${MAX_HISTORY} phiên gần nhất`);
         }
         
         if (updated) {
             saveHistoricalData();
-            console.log(`🔄 Đã cập nhật - Tổng: ${historicalData.length}`);
+            console.log(`🔄 Đã cập nhật - Tổng: ${historicalData.length} phiên`);
         }
         return true;
         
@@ -285,7 +291,10 @@ async function trainMLModels() {
         if (result && result.label !== null) trainingData.push(result);
     }
     
-    if (trainingData.length < 50) return false;
+    if (trainingData.length < 10) {
+        console.log(`⚠️ Chưa đủ dữ liệu train ML (${trainingData.length}/10)`);
+        return false;
+    }
     
     const featuresList = trainingData.map(d => d.features);
     const labels = trainingData.map(d => d.label);
@@ -303,8 +312,10 @@ async function trainMLModels() {
 // ============ 10 THUẬT TOÁN TRUYỀN THỐNG ============
 
 function predictByFrequency(sessions) {
+    // Chỉ tính trên số phiên có sẵn (tối đa 15)
+    const limit = Math.min(15, sessions.length);
     let tai = 0, xiu = 0;
-    for(let i = 0; i < 50; i++) {
+    for(let i = 0; i < limit; i++) {
         if (sessions[i].resultType === 3) tai++;
         else if (sessions[i].resultType === 4) xiu++;
     }
@@ -312,8 +323,9 @@ function predictByFrequency(sessions) {
 }
 
 function predictByRecent(sessions) {
+    const limit = Math.min(10, sessions.length);
     let tai = 0, xiu = 0;
-    for(let i = 0; i < 10; i++) {
+    for(let i = 0; i < limit; i++) {
         if (sessions[i].resultType === 3) tai++;
         else if (sessions[i].resultType === 4) xiu++;
     }
@@ -322,9 +334,10 @@ function predictByRecent(sessions) {
 }
 
 function predictByWeightedAverage(sessions) {
+    const limit = Math.min(15, sessions.length);
     let weightedSum = 0, totalWeight = 0;
-    for(let i = 0; i < 30; i++) {
-        const weight = 30 - i;
+    for(let i = 0; i < limit; i++) {
+        const weight = limit - i;
         weightedSum += sessions[i].score * weight;
         totalWeight += weight;
     }
@@ -333,8 +346,8 @@ function predictByWeightedAverage(sessions) {
 }
 
 function predictByMarkov(sessions) {
-    const filtered = sessions.filter(s => s.resultType !== 11).slice(0, 60);
-    if (filtered.length < 10) return null;
+    const filtered = sessions.filter(s => s.resultType !== 11);
+    if (filtered.length < 3) return null;
     const last2 = filtered.slice(0, 2).map(s => s.resultType);
     const transition = {};
     for (let i = 0; i < filtered.length - 2; i++) {
@@ -351,11 +364,13 @@ function predictByMarkov(sessions) {
 }
 
 function predictByDiceFace(sessions) {
+    if (sessions.length < 2) return null;
     const lastFaces = sessions[0].facesList;
     let sumNext = 0;
     let count = 0;
+    const limit = Math.min(15, sessions.length - 1);
     
-    for(let i = 0; i < 50; i++) {
+    for(let i = 0; i < limit; i++) {
         if (sessions[i].facesList[0] === lastFaces[0] && 
             sessions[i].facesList[1] === lastFaces[1]) {
             const nextSession = sessions[i+1];
@@ -374,7 +389,8 @@ function predictByDiceFace(sessions) {
 }
 
 function predictByCycle(sessions) {
-    const results = sessions.slice(0, 30).map(s => s.resultType === 3 ? 1 : 0);
+    const limit = Math.min(15, sessions.length);
+    const results = sessions.slice(0, limit).map(s => s.resultType === 3 ? 1 : 0);
     let lastChange = 0;
     
     for(let i = 1; i < results.length; i++) {
@@ -384,14 +400,15 @@ function predictByCycle(sessions) {
         }
     }
     
-    if (lastChange > 5) {
+    if (lastChange > 3) {
         return results[0] === 1 ? 'Xỉu' : 'Tài';
     }
     return null;
 }
 
 function predictByNoiseFilter(sessions) {
-    const clean = sessions.filter(s => s.resultType !== 11).slice(0, 40);
+    const clean = sessions.filter(s => s.resultType !== 11);
+    if (clean.length < 3) return predictByFrequency(sessions);
     let tai = 0, xiu = 0;
     clean.forEach(s => {
         if (s.resultType === 3) tai++;
@@ -401,6 +418,8 @@ function predictByNoiseFilter(sessions) {
 }
 
 function predictByReverse(sessions) {
+    const limit = Math.min(3, sessions.length);
+    if (limit < 3) return null;
     const last3 = sessions.slice(0, 3).map(s => s.resultType);
     const allSame = last3.every(r => r === last3[0] && r !== 11);
     
@@ -411,9 +430,11 @@ function predictByReverse(sessions) {
 }
 
 function predictByRSI(sessions) {
+    const limit = Math.min(14, sessions.length - 1);
+    if (limit < 5) return null;
     let gains = 0, losses = 0;
     
-    for(let i = 0; i < 14; i++) {
+    for(let i = 0; i < limit; i++) {
         const change = sessions[i].score - sessions[i+1].score;
         if (change > 0) gains += change;
         else losses += Math.abs(change);
@@ -428,7 +449,7 @@ function predictByRSI(sessions) {
 }
 
 function predictByML(sessions, mlModel) {
-    if (!mlModel) return null;
+    if (!mlModel || sessions.length < 5) return null;
     const features = {
         r1: sessions[0].resultType === 3 ? 1 : (sessions[0].resultType === 4 ? 0 : -1),
         r2: sessions[1].resultType === 3 ? 1 : (sessions[1].resultType === 4 ? 0 : -1),
@@ -527,7 +548,7 @@ app.get('/api/predict', async (req, res) => {
     }
 });
 
-// API lấy 100 phiên
+// API lấy phiên (giữ nguyên)
 app.get('/api/game-sessions', async (req, res) => {
     try {
         const response = await rateLimitedRequest({
@@ -560,12 +581,12 @@ async function startServer() {
     await updateHistoricalData();
     await trainMLModels();
     
-    // Giảm tần suất từ 10s xuống 60s để tránh 429
+    // Cập nhật mỗi 60 giây
     setInterval(async () => {
         console.log('🔄 Cập nhật dữ liệu nền...');
         const updated = await updateHistoricalData();
         if (updated) await trainMLModels();
-    }, 60000); // 60 giây thay vì 10 giây
+    }, 60000);
     
     app.listen(PORT, () => {
         console.log(`\n✅ API chạy tại http://localhost:${PORT}`);
